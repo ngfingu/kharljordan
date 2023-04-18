@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mailbooth.id@gmail.com
 - ⚡ Fun fact: I design also
 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/kharljordan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kharljordan)](https://github.com/kharljordan/github-readme-activity-graph)
