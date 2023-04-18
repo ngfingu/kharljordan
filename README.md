@@ -7,5 +7,5 @@
 - 📫 How to reach me: mailbooth.id@gmail.com
 - ⚡ Fun fact: I design also.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kharljordan)](https://github.com/kharljordan/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kharljordan)](https://github.com/kharljordan/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kharljordan&theme=onedark)](https://github.com/kharljordan/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kharljordan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/kharljordan/github-readme-activity-graph)
