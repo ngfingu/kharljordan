@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I design also.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kharljordan)](https://github.com/kharljordan/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kharljordan)](https://github.com/kharljordan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kharljordan&theme=onedark)](https://github.com/kharljordan/github-profile-trophy)
