@@ -6,6 +6,14 @@
 - 💬 Ask me about html,css and web pentesting.
 - 📫 How to reach me: mailbooth.id@gmail.com
 - ⚡ Fun fact: I design also.
+-<html>
+   <body>
+      <div>
+       <img src ="https://komarev.com/ghpvc/?username=kharljordan&style=flat-square&color=green" alt=""/>  
+      </div>
+   </body>
+ </html>
+ 
 - ### :fire: My Stats : 
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kharljordan&theme=dark&background=000000)](https://git.io/streak-stats)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan&show_icons=true&theme=radical)
@@ -23,9 +31,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="50"/>&nbsp;
       </div>
-      <div>
-       <img src ="https://komarev.com/ghpvc/?username=kharljordan&style=flat-square&color=green" alt=""/>  
-      </div>
+      
    </body>
  </html> 
 
