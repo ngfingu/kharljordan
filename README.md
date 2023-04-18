@@ -8,14 +8,9 @@
 - ⚡ Fun fact: I design also.
 - ### :fire: My Stats : 
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kharljordan&theme=dark&background=000000)](https://git.io/streak-stats)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan)](https://github.com/kharljordan/github-readme-stats)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan&show_icons=true)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan&show_icons=true&theme=radical)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan&show_icons=true&theme=transparent)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan)](https://github.com/kharljordan/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan&langs_count=8)](https://github.com/kharljordan/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan&layout=compact)](https://github.com/kharljordan/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan&layout=compact&langs_count=8)](https://github.com/kharljordan/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kharljordan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/kharljordan/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kharljordan&theme=onedark)](https://github.com/kharljordan/github-profile-trophy)
 ##
