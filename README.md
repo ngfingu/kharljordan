@@ -23,6 +23,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="50"/>&nbsp;
       </div>
+      <div>
+       <img src ="https://komarev.com/ghpvc/?username=kharljordan&style=flat-square&color=green" alt=""/>  
+      </div>
    </body>
  </html> 
 
