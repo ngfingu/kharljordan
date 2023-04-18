@@ -9,7 +9,6 @@
 - ### :fire: My Stats : 
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kharljordan&theme=dark&background=000000)](https://git.io/streak-stats)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan&show_icons=true&theme=radical)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan&langs_count=8)](https://github.com/kharljordan/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan&layout=compact&langs_count=8)](https://github.com/kharljordan/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kharljordan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/kharljordan/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kharljordan&theme=onedark)](https://github.com/kharljordan/github-profile-trophy)
@@ -25,12 +24,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
       </div>
-     <a href="https://github.com/kharljordan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kharljordan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/kharljordan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kharljordan&repo=convoychat" />
-</a>
    </body>
  </html> 
 ##
