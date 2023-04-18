@@ -7,7 +7,7 @@
 - 📫 How to reach me: mailbooth.id@gmail.com
 - ⚡ Fun fact: I design also.
 
--<html>
+<html>
    <body>
       <div>
        <img src ="https://komarev.com/ghpvc/?username=kharljordan&style=flat-square&color=green" alt=""/>  
@@ -17,7 +17,9 @@
  
 - ### :fire: My Stats : 
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kharljordan&theme=dark&background=000000)](https://git.io/streak-stats)
+- 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kharljordan&show_icons=true&theme=radical)
+- 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharljordan&layout=compact&langs_count=8)](https://github.com/kharljordan/github-readme-stats)
 ##
 ### :hammer_and_wrench: Languages and Tools :
