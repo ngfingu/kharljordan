@@ -1,11 +1,9 @@
 ### Hi there 👋
 ## I am kharljordan
-- 🔭 I’m currently into frontend development.
-- 🌱 I’m currently learning html & css.
-- 👯 I’m looking to collaborate on frontend development projects.
+- 🔭 I’m a Python Developer.
+- 🌱 I’m a Bug Bounty Hunter.
 - 💬 Ask me about html and css.
 - 📫 How to reach me: mailbooth.id@gmail.com
-- ⚡ Fun fact: I design also.
 
 <html>
    <body>
