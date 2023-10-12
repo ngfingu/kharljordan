@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I am kharljordan
-- 🔭 I’m a Python Developer.
-- 🌱 I’m a Bug Bounty Hunter.
-- 💬 Ask me about html and css.
+- 🔭 I use Python
+- 🌱 I’m into Security
+- 💬 Ask me about Networking.
 - 📫 How to reach me: mailbooth.id@gmail.com
 
 <html>
